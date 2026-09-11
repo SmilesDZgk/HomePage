@@ -34,6 +34,8 @@ His current research interest focus on developing effective, efficient, and trus
 
 
 == News
+- 07/2026: 1 paper about Personalized Image Generation accepted by RecSys 2026, Congrats to all collaborators!
+- 04/2026: 1 paper about Personalized Multimodal Generation accepted by SIGIR 2026, Congrats to all collaborators!
 - 03/2026: 1 paper about Chemical Reasoning accepted by ACL 2026 Findings, Congrats to all collaborators!
 - 02/2026: 1 paper (the first author) about LiDAR-to-4DRadar Diffusion accepted by CVPR 2026, Congrats to all collaborators!
 - 01/2026: 1 paper (the corresponding author) about Molecular Editing with Diffusion and RL accepted by ICLR 2026, Congrats to all collaborators!
@@ -56,7 +58,9 @@ His current research interest focus on developing effective, efficient, and trus
 
 
 == Recent Publication(\* corresponding author)
-. Mingxu Zhang, *Dazhong Shen*, Qi Zhang, Ying Sun. REAP: Towards Effective Training-Free Chemical Reasoning with Explicit Atomic Priors. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics *(ACL 2026 Findings)*, 2026.
+. Yuting Zhang, Ying Sun\*, *Dazhong Shen*, Ziwei Xie, Feng Liu, Changwang Zhang, Xiang Liu, Jun Wang, Hui Xiong\*. Generating Personalized Images for Sparse-Interaction Users with Uncertainty-Aware Retrieval and Dense Knowledge Guidance. ACM Recommender Systems *(RecSys-2026)*, 2026.
+. Yuting Zhang, Ying Sun\*, *Dazhong Shen*, Ziwei Xie, Feng Liu, Changwang Zhang\*, Xiang Liu, Jun Wang, Hui Xiong. Discrete Preference Learning for Personalized Multimodal Generation. The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval *(SIGIR-2026)*, 2026. \[[https://arxiv.org/pdf/2604.20434 PDF]\]
+. Mingxu Zhang, *Dazhong Shen\* *, Qi Zhang, Ying Sun\*. REAP: Towards Effective Training-Free Chemical Reasoning with Explicit Atomic Priors. In Findings of the 64th Annual Meeting of the Association for Computational Linguistics *(ACL 2026 Findings)*, 2026.
 . *Dazhong Shen*, Jingjing Gu, Qiang Zhou, Meng Zhao, Ying Sun. LiDAR-to-4DRadar Diffusion Bridge via Cross-Modal Alignment and Translation in Latent Space. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition *(CVPR-2026)*, 2026.
 . Yuanxin Zhuang, *Dazhong Shen\* *, Ying Sun. MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning. The 14th International Conference on Learning Representations *(ICLR-2026)*, 2026.
 . Yuanxin Zhuang, *Dazhong Shen*, Ying Sun. NGTM: Substructure-based Neural Graph Topic Model for Interpretable Graph Generation. The 40th Annual AAAI Conference on Artificial Intelligence *(AAAI 2026)*, 2026. \[[./papers/YuanxinZhuang-AAAI-2026.pdf PDF]\]
