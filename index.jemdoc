@@ -34,6 +34,7 @@ His current research interest focus on developing effective, efficient, and trus
 
 
 == News
+- 11/2026: 1 paper about LLM reasoning over raw electromagnetic signals accepted by KDD 2027, Congrats to all collaborators!
 - 08/2026: 1 paper about compositional image generation accepted by EMNLP 2026, Congrats to all collaborators!
 - 07/2026: 1 paper about Personalized Image Generation accepted by RecSys 2026, Congrats to all collaborators!
 - 07/2026: 2 papers about LiDAR point cloud generation and camera-LiDAR multimodal pretraining accepted by ACM MM 2026, Congrats to all collaborators!
@@ -61,6 +62,9 @@ His current research interest focus on developing effective, efficient, and trus
 
 
 == Recent Publication(\* corresponding author)
+. Mingxu Zhang, Ying Sun, Yuhan Li, Yang Ji, *Dazhong Shen*, Ke Zhang, Shan Huang. EMRB: A Multi-Level Benchmark for Evaluating LLM Reasoning over Raw Electromagnetic Signals. ACM SIGKDD Conference on Knowledge Discovery and Data Mining *(KDD 2027)*, accepted, 2027. \[[https://arxiv.org/pdf/2608.24086 PDF]\]
+. Pengfei Yu, Yang Liu, Jingjing Gu, Bao Wen, Qiang Zhou, *Dazhong Shen*, Xinyi Huang. Input-Aware and Generalizable Error Resilience Prediction for Reliable GPU Computing. IEEE Transactions on Dependable and Secure Computing *(IEEE TDSC)*, 2026. \[[https://doi.org/10.1109/TDSC.2026.3742623 DOI]\]
+. Shengzhe Zhang, Qi Zhang, *Dazhong Shen*, Chao Wang, Shaopeng Zhai, Hui Xiong. A³-VLA: Automatic Perception-Guided Attention Alignment for Robot Manipulation. The 40th Conference on Neural Information Processing Systems *(NeurIPS 2026)*, 2026. \[[https://arxiv.org/pdf/2611.06447 PDF]\]
 . Lujundong Li, Mingxu Zhang, Songning Lai, Jiayu Yang, Yuxuan Fan, Ziwei Xie, Feng Liu, Changwang Zhang, Jun Wang, *Dazhong Shen*, Ying Sun. Decomposing Visual Histories with Vision-Language Agents: Hierarchical Temporal Guidance for Compositional Image Generation. The 2026 Conference on Empirical Methods in Natural Language Processing *(EMNLP 2026)*, 2026.
 . Yuting Zhang, Ying Sun, *Dazhong Shen*, Ziwei Xie, Feng Liu, Changwang Zhang, Xiang Liu, Jun Wang, Hui Xiong. Generating Personalized Images for Sparse-Interaction Users with Uncertainty-Aware Retrieval and Dense Knowledge Guidance. ACM Recommender Systems *(RecSys-2026)*, 2026.
 . Hanzhe Li, *Dazhong Shen\* *, Qiang Zhou, Yukang Cui, Jingjing Gu. IMPEL: Can Pretrained Image Diffusion Enable Realistic LiDAR Point Cloud Generation? In Proceedings of the 34th ACM International Conference on Multimedia *(ACM MM 2026)*, 2026.
@@ -70,6 +74,7 @@ His current research interest focus on developing effective, efficient, and trus
 . Yuting Zhang, Ying Sun, *Dazhong Shen*, Ziwei Xie, Feng Liu, Changwang Zhang, Xiang Liu, Jun Wang, Hui Xiong. Discrete Preference Learning for Personalized Multimodal Generation. The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval *(SIGIR-2026)*, 2026. \[[https://arxiv.org/pdf/2604.20434 PDF]\]
 . *Dazhong Shen*, Jingjing Gu, Qiang Zhou, Meng Zhao, Ying Sun. LiDAR-to-4DRadar Diffusion Bridge via Cross-Modal Alignment and Translation in Latent Space. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition *(CVPR-2026)*, 2026.
 . Yuanxin Zhuang, *Dazhong Shen\* *, Ying Sun. MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning. The 14th International Conference on Learning Representations *(ICLR-2026)*, 2026.
+. Chengyi Du, Yazhe Niu, *Dazhong Shen*, Luxin Xu. CoTZero: Annotation-Free Human-Like Vision Reasoning via Hierarchical Synthetic CoT. ICLR 2026 Workshop on From Human Cognition to AI Reasoning: Models, Methods, and Applications *(HCAIR Workshop)*, 2026. \[[https://arxiv.org/pdf/2602.08339 PDF]\]
 . Yuanxin Zhuang, *Dazhong Shen*, Ying Sun. NGTM: Substructure-based Neural Graph Topic Model for Interpretable Graph Generation. The 40th Annual AAAI Conference on Artificial Intelligence *(AAAI 2026)*, 2026. \[[./papers/YuanxinZhuang-AAAI-2026.pdf PDF]\]
 . Yongwen Ren, Chao Wang, Peng Du, Chuan Qin, *Dazhong Shen*, Hui Xiong. Enhancing Conversational Recommender Systems with Tree-Structured Knowledge and Pretrained Language Models. The 40th Annual AAAI Conference on Artificial Intelligence *(AAAI 2026)*, 2026.
 . Yuhan Su, Hongke Zhao, Chuan Qin, *Dazhong Shen*, Hengshu Zhu. AI-driven Skill Keyword Suggestion for Multi-round Interviews: A Graph-based Topic Approach. Information Processing \& Management *(IPM)*, 2026.
